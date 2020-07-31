@@ -1,6 +1,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axenth&theme=dark" />
 
-<img align="right" src="[![Axenth's github stats](https://github-readme-stats.vercel.app/api?username=axenth&count_private=false&theme=dark)](https://github.com/axenth/github-readme-stats)" />
+[![Axenth's github stats](https://github-readme-stats.vercel.app/api?username=axenth&count_private=false&theme=dark)](https://github.com/axenth/github-readme-stats)"
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=axenth&repo=axeLib&theme=dark" /> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=axenth&repo=printf&theme=dark" />
 
