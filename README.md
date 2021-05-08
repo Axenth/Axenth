@@ -2,7 +2,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axenth&theme=dark)](https://github.com/axenth/github-readme-stats)
 </a>
-[![Axenth's github stats](https://github-readme-stats.vercel.app/api?username=axenth&count_private=false&theme=dark)](https://github.com/axenth/github-readme-stats)
 
 
 <a href="https://github.com/axenth/github-readme-stats">
@@ -21,4 +20,4 @@
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 </a>
 
-- 🔭 I’m currently working on Minishell and FT_Services
+- 🔭 I’m currently working on Minishell and Push_Swap
