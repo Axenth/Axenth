@@ -1,6 +1,6 @@
 <a href="https://github.com/axenth/github-readme-stats">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axenth&theme=dark)](https://github.com/axenth/github-readme-stats)
+[![jlensing's 42 stats](https://badge42.herokuapp.com/api/stats/jlensing)](https://github.com/JaeSeoKim/badge42)
 </a>
 
 
