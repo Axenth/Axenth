@@ -5,13 +5,6 @@
 
 
 <a href="https://github.com/axenth/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=axenth&repo=axeLib&theme=dark" />
-</a>
-<a href="https://github.com/axenth/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=axenth&repo=Cub3D&theme=dark" />
-</a>
-<br><br><br><br><br><br>
-<a href="https://github.com/axenth/github-readme-stats">
 
 # Experience
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
