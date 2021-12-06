@@ -3,6 +3,8 @@
 [![jlensing's 42 stats](https://badge42.herokuapp.com/api/stats/jlensing)](https://github.com/JaeSeoKim/badge42)
 </a>
 
+![](https://komarev.com/ghpvc/?username=axenth&color=brightgreen)
+
 
 <a href="https://github.com/axenth/github-readme-stats">
 
