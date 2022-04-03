@@ -1,6 +1,6 @@
 <a href="https://github.com/axenth/github-readme-stats">
 
-[![jlensing's 42 stats](https://badge42.herokuapp.com/api/stats/jlensing)](https://github.com/JaeSeoKim/badge42)
+[![jlensing's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1jwurq1001109l1q4s085aw?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 </a>
 
 ![](https://komarev.com/ghpvc/?username=axenth&color=brightgreen)
