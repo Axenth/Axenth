@@ -17,4 +17,4 @@
 ![](https://img.shields.io/badge/IDE-Clion-informational?style=flat&logo=clion&logoColor=white&color=2bbc8a)
 </a>
 
-- 🔭 I’m currently working on ft_transcendence && ft_containers
+- 🔭 I’m currently looking for work/internship
