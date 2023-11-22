@@ -15,6 +15,4 @@
 ![](https://img.shields.io/badge/IDE-Clion-informational?style=flat&logo=clion&logoColor=white&color=2bbc8a)
 </a>
 
-- Software Engineer at TomTom <img src="https://w7.pngwing.com/pngs/340/806/png-transparent-gps-navigation-systems-tomtom-golfer-2-tom-tom-text-hand-logo-thumbnail.png" alt="tomtom icon icon" style="float: left; margin-right: 10px; height: 30px; margin-top: 5px" />
-
 ![](https://komarev.com/ghpvc/?username=axenth&color=brightgreen)
